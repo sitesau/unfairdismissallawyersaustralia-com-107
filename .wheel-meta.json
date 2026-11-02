@@ -1,0 +1,22 @@
+{
+  "wheel_id": 688,
+  "structure": "umbrella",
+  "slug": "unfairdismissallawyersaustralia-com-107",
+  "project": "unfair-dismissal-lawyers-sydney-signs-you-need-58380b47c1598624",
+  "parent_t1_ref": "unfairdismissallawyersaustralia-com-154",
+  "node_role": "feeder",
+  "money_target": "unfairdismissallawyersaustralia.com.au",
+  "primary_kw": "unfair dismissal lawyers sydney signs you need",
+  "intended_url": "http://unfair-dismissal-lawyers-sydney-signs-you-need-58380b47c1598624.s3-website-ap-southeast-2.amazonaws.com/index.html",
+  "tier": "T2",
+  "writeback_nonce": "25ffcdd87799be32",
+  "links": [
+    {
+      "target_url": "https://sites-e470-2.web.app/unfair-dismissal-lawyers-sydney-questions-to-ask-ed55322bf5d2a3/",
+      "anchor": "more on unfair dismissal lawyers sydney questions to ask",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "partial"
+    }
+  ]
+}
